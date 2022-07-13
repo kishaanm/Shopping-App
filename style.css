@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: gray;
+  }
+  h1{
+   color: cyan;
+    border-style: solid;
+  border-color: blue;
+  border-width:5px;
+  padding:10px;  
+  }
+  h2
+  {
+   color:orange;
+    border-style: solid;
+  border-color: yellow;
+  border-width:5px;
+  padding:10px;  
+  }
